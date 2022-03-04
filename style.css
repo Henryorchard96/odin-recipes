@@ -1,0 +1,49 @@
+.chef{
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: crimson;
+}
+
+.recipe-list{
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    display: inline;
+    list-style-type: none;
+    position: absolute;
+    top: 100px;
+    left: 16px;
+    
+}
+
+*{
+    background-color:teal;
+}
+
+/* Lasagna */
+
+.lasagna{
+    text-align: center;
+}
+
+.ingredients,
+.directions,
+.description{
+    font-family: 'Courier New', Courier, monospace;
+    color: crimson;
+}
+
+.content{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+
